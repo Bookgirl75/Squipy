@@ -1,0 +1,1 @@
+global.levelTimer = 0;
