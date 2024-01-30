@@ -32,6 +32,7 @@
     {"name":"sCelebration","order":10,"path":"sprites/sCelebration/sCelebration.yy",},
     {"name":"r0002","order":5,"path":"rooms/r0002/r0002.yy",},
     {"name":"oTable","order":11,"path":"objects/oTable/oTable.yy",},
+    {"name":"blah","order":28,"path":"sprites/blah/blah.yy",},
     {"name":"oPotion5","order":4,"path":"objects/oPotion5/oPotion5.yy",},
     {"name":"oProject","order":5,"path":"objects/oProject/oProject.yy",},
     {"name":"sFloor","order":16,"path":"sprites/sFloor/sFloor.yy",},

@@ -52,6 +52,7 @@
     {"id":{"name":"r0002","path":"rooms/r0002/r0002.yy",},},
     {"id":{"name":"oTable","path":"objects/oTable/oTable.yy",},},
     {"id":{"name":"sWall2","path":"sprites/sWall2/sWall2.yy",},},
+    {"id":{"name":"blah","path":"sprites/blah/blah.yy",},},
     {"id":{"name":"oPotion5","path":"objects/oPotion5/oPotion5.yy",},},
     {"id":{"name":"oProject","path":"objects/oProject/oProject.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
