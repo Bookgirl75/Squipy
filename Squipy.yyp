@@ -42,7 +42,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},},
@@ -162,6 +162,7 @@
     {"roomId":{"name":"rhint2","path":"rooms/rhint2/rhint2.yy",},},
     {"roomId":{"name":"rhint3","path":"rooms/rhint3/rhint3.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
