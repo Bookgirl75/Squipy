@@ -81,7 +81,6 @@
     {"name":"oPowerUp","order":6,"path":"objects/oPowerUp/oPowerUp.yy",},
     {"name":"sPotion5","order":4,"path":"sprites/sPotion5/sPotion5.yy",},
     {"name":"sPoison","order":3,"path":"sprites/sPoison/sPoison.yy",},
-    {"name":"oBalloon","order":8,"path":"objects/oBalloon/oBalloon.yy",},
     {"name":"sPlayerSqRight","order":23,"path":"sprites/sPlayerSqRight/sPlayerSqRight.yy",},
     {"name":"sPlatform","order":1,"path":"sprites/sPlatform/sPlatform.yy",},
     {"name":"rhint2","order":2,"path":"rooms/rhint2/rhint2.yy",},

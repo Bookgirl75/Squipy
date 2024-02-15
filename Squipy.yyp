@@ -42,7 +42,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},},
@@ -107,7 +107,6 @@
     {"id":{"name":"sPotion5","path":"sprites/sPotion5/sPotion5.yy",},},
     {"id":{"name":"shPlayerDeath","path":"shaders/shPlayerDeath/shPlayerDeath.yy",},},
     {"id":{"name":"sPoison","path":"sprites/sPoison/sPoison.yy",},},
-    {"id":{"name":"oBalloon","path":"objects/oBalloon/oBalloon.yy",},},
     {"id":{"name":"sPotion1","path":"sprites/sPotion1/sPotion1.yy",},},
     {"id":{"name":"sPlayerSqRight","path":"sprites/sPlayerSqRight/sPlayerSqRight.yy",},},
     {"id":{"name":"sPlatform","path":"sprites/sPlatform/sPlatform.yy",},},
@@ -161,6 +160,7 @@
     {"roomId":{"name":"rhint2","path":"rooms/rhint2/rhint2.yy",},},
     {"roomId":{"name":"rhint3","path":"rooms/rhint3/rhint3.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
