@@ -38,14 +38,17 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Potions","folderPath":"folders/Sprites/Potions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+<<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Buttons","folderPath":"folders/Objects/Buttons.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Buttons","folderPath":"folders/Sprites/Buttons.yy",},
+=======
+>>>>>>> b9a73d9bfa72bf2de3ec5b25c2e142f8fe92195c
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},},
@@ -185,6 +188,7 @@
     {"roomId":{"name":"r005","path":"rooms/r005/r005.yy",},},
     {"roomId":{"name":"rCredits","path":"rooms/rCredits/rCredits.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

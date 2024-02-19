@@ -25,8 +25,11 @@
     {"name":"Potions","order":17,"path":"folders/Sprites/Potions.yy",},
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":4,"path":"folders/Timelines.yy",},
+<<<<<<< HEAD
     {"name":"Buttons","order":19,"path":"folders/Objects/Buttons.yy",},
     {"name":"Buttons","order":30,"path":"folders/Sprites/Buttons.yy",},
+=======
+>>>>>>> b9a73d9bfa72bf2de3ec5b25c2e142f8fe92195c
   ],
   "ResourceOrderSettings": [
     {"name":"oFloor","order":14,"path":"objects/oFloor/oFloor.yy",},
