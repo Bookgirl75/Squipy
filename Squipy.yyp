@@ -24,6 +24,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Potions","folderPath":"folders/Objects/Potions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Text","folderPath":"folders/Objects/Text.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Hints","folderPath":"folders/Objects/Text/Hints.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"PotionText","folderPath":"folders/Objects/Text/PotionText.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Paths/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
@@ -37,13 +38,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Potions","folderPath":"folders/Sprites/Potions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"PotionText","folderPath":"folders/Objects/Text/PotionText.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},},
@@ -169,6 +169,7 @@
     {"roomId":{"name":"rhint2","path":"rooms/rhint2/rhint2.yy",},},
     {"roomId":{"name":"rhint3","path":"rooms/rhint3/rhint3.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

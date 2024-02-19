@@ -13,6 +13,7 @@
     {"name":"Potions","order":15,"path":"folders/Objects/Potions.yy",},
     {"name":"Text","order":13,"path":"folders/Objects/Text.yy",},
     {"name":"Hints","order":11,"path":"folders/Objects/Text/Hints.yy",},
+    {"name":"PotionText","order":13,"path":"folders/Objects/Text/PotionText.yy",},
     {"name":"Paths","order":11,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
     {"name":"GamePlay","order":14,"path":"folders/Rooms/GamePlay.yy",},
@@ -24,7 +25,6 @@
     {"name":"Potions","order":17,"path":"folders/Sprites/Potions.yy",},
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":4,"path":"folders/Timelines.yy",},
-    {"name":"PotionText","order":13,"path":"folders/Objects/Text/PotionText.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oFloor","order":14,"path":"objects/oFloor/oFloor.yy",},
