@@ -1,20 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlatformYRoom2",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "oTokenWall",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "PlatformY",
-    "path": "folders/Objects/Bricks/PlatformX/PlatformY.yy",
+    "name": "Bricks",
+    "path": "folders/Objects/Bricks.yy",
   },
   "parentObjectId": {
-    "name": "oPlatform",
-    "path": "objects/oPlatform/oPlatform.yy",
+    "name": "oCollision",
+    "path": "objects/oCollision/oCollision.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -32,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlatform",
-    "path": "sprites/sPlatform/sPlatform.yy",
+    "name": "sTokenWall",
+    "path": "sprites/sTokenWall/sTokenWall.yy",
   },
   "spriteMaskId": null,
   "visible": true,

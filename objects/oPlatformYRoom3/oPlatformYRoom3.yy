@@ -10,7 +10,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "PlatformY",
-    "path": "folders/Objects/Bricks/PlatformY.yy",
+    "path": "folders/Objects/Bricks/PlatformX/PlatformY.yy",
   },
   "parentObjectId": {
     "name": "oPlatform",

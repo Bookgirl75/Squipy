@@ -1,21 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlatformYRoom2",
+  "name": "oCreditButton",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "PlatformY",
-    "path": "folders/Objects/Bricks/PlatformX/PlatformY.yy",
+    "name": "Buttons",
+    "path": "folders/Objects/Buttons.yy",
   },
-  "parentObjectId": {
-    "name": "oPlatform",
-    "path": "objects/oPlatform/oPlatform.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlatform",
-    "path": "sprites/sPlatform/sPlatform.yy",
+    "name": "sCreditButton",
+    "path": "sprites/sCreditButton/sCreditButton.yy",
   },
   "spriteMaskId": null,
   "visible": true,

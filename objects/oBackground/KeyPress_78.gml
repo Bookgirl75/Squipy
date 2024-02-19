@@ -1,3 +1,3 @@
-room_goto(r000)
+room_goto(rMain_Menu)
 
 

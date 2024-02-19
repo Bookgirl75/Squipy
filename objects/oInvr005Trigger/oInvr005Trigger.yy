@@ -1,21 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlatformYRoom2",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "oInvr005Trigger",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "PlatformY",
-    "path": "folders/Objects/Bricks/PlatformX/PlatformY.yy",
+    "name": "Inv",
+    "path": "folders/Objects/Inv.yy",
   },
-  "parentObjectId": {
-    "name": "oPlatform",
-    "path": "objects/oPlatform/oPlatform.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlatform",
-    "path": "sprites/sPlatform/sPlatform.yy",
+    "name": "sInvDoor",
+    "path": "sprites/sInvDoor/sInvDoor.yy",
   },
   "spriteMaskId": null,
   "visible": true,

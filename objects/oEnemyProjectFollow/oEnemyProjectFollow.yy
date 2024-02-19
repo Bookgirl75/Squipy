@@ -1,20 +1,21 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlatformYRoom2",
+  "name": "oEnemyProjectFollow",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "PlatformY",
-    "path": "folders/Objects/Bricks/PlatformX/PlatformY.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "oPlatform",
-    "path": "objects/oPlatform/oPlatform.yy",
+    "name": "oCollision",
+    "path": "objects/oCollision/oCollision.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -32,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlatform",
-    "path": "sprites/sPlatform/sPlatform.yy",
+    "name": "sProject",
+    "path": "sprites/sProject/sProject.yy",
   },
   "spriteMaskId": null,
   "visible": true,

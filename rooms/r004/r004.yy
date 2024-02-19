@@ -27,15 +27,15 @@
     {"name":"inst_774C6C88","path":"rooms/r004/r004.yy",},
     {"name":"inst_630EC6D7","path":"rooms/r004/r004.yy",},
     {"name":"inst_652F7A96","path":"rooms/r004/r004.yy",},
-    {"name":"inst_579540C7","path":"rooms/r004/r004.yy",},
     {"name":"inst_249B9E73","path":"rooms/r004/r004.yy",},
+    {"name":"inst_22E221B6","path":"rooms/r004/r004.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_24507EF8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"rotation":0.0,"scaleX":5.0,"scaleY":2.0,"x":160.0,"y":736.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1611B52C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"rotation":0.0,"scaleX":5.0,"scaleY":2.0,"x":64.0,"y":736.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_579540C7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oFinalDoorTrigger","path":"objects/oFinalDoorTrigger/oFinalDoorTrigger.yy",},"properties":[],"rotation":0.0,"scaleX":6.0,"scaleY":7.0,"x":1488.0,"y":384.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_22E221B6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oInvr005Trigger","path":"objects/oInvr005Trigger/oInvr005Trigger.yy",},"properties":[],"rotation":0.0,"scaleX":12.71875,"scaleY":0.6666667,"x":1812.5,"y":752.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D4B0434","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oPowerUp","path":"objects/oPowerUp/oPowerUp.yy",},"properties":[],"rotation":0.0,"scaleX":1.888889,"scaleY":2.3333333,"x":96.0,"y":96.0,},

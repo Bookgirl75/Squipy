@@ -16,6 +16,8 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oInvr004Trigger","path":"objects/oInvr004Trigger/oInvr004Trigger.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oFinalDoorTrigger","path":"objects/oFinalDoorTrigger/oFinalDoorTrigger.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oFinalDoor","path":"objects/oFinalDoor/oFinalDoor.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oInvr005Trigger","path":"objects/oInvr005Trigger/oInvr005Trigger.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oEnemyProjectFollow","path":"objects/oEnemyProjectFollow/oEnemyProjectFollow.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
