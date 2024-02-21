@@ -39,10 +39,13 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Buttons","folderPath":"folders/Objects/Buttons.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Buttons","folderPath":"folders/Sprites/Buttons.yy",},
 =======
 >>>>>>> b9a73d9bfa72bf2de3ec5b25c2e142f8fe92195c
+=======
+>>>>>>> parent of ba3df0f (2/15 Class)
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -61,7 +64,6 @@
     {"id":{"name":"oPotion5","path":"objects/oPotion5/oPotion5.yy",},},
     {"id":{"name":"oProject","path":"objects/oProject/oProject.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
-    {"id":{"name":"oPotion6Text","path":"objects/oPotion6Text/oPotion6Text.yy",},},
     {"id":{"name":"sBooks","path":"sprites/sBooks/sBooks.yy",},},
     {"id":{"name":"sProject","path":"sprites/sProject/sProject.yy",},},
     {"id":{"name":"oCollision","path":"objects/oCollision/oCollision.yy",},},
@@ -105,14 +107,16 @@
     {"id":{"name":"sDoor","path":"sprites/sDoor/sDoor.yy",},},
     {"id":{"name":"sInvDoor","path":"sprites/sInvDoor/sInvDoor.yy",},},
     {"id":{"name":"r002","path":"rooms/r002/r002.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"oFalseWall","path":"objects/oFalseWall/oFalseWall.yy",},},
     {"id":{"name":"oPotion2Text","path":"objects/oPotion2Text/oPotion2Text.yy",},},
     {"id":{"name":"oPotion1Text","path":"objects/oPotion1Text/oPotion1Text.yy",},},
+=======
+>>>>>>> parent of ba3df0f (2/15 Class)
     {"id":{"name":"rfinal","path":"rooms/rfinal/rfinal.yy",},},
     {"id":{"name":"oToken","path":"objects/oToken/oToken.yy",},},
     {"id":{"name":"r005","path":"rooms/r005/r005.yy",},},
     {"id":{"name":"oPlatformXRoom2","path":"objects/oPlatformXRoom2/oPlatformXRoom2.yy",},},
-    {"id":{"name":"oPotion3Text","path":"objects/oPotion3Text/oPotion3Text.yy",},},
     {"id":{"name":"fHUD","path":"fonts/fHUD/fHUD.yy",},},
     {"id":{"name":"sPlayerMe","path":"sprites/sPlayerMe/sPlayerMe.yy",},},
     {"id":{"name":"sPlayerSqIdle","path":"sprites/sPlayerSqIdle/sPlayerSqIdle.yy",},},
@@ -141,7 +145,6 @@
     {"id":{"name":"sPotion6","path":"sprites/sPotion6/sPotion6.yy",},},
     {"id":{"name":"oPotion1","path":"objects/oPotion1/oPotion1.yy",},},
     {"id":{"name":"oPotion4","path":"objects/oPotion4/oPotion4.yy",},},
-    {"id":{"name":"fPotionText","path":"fonts/fPotionText/fPotionText.yy",},},
     {"id":{"name":"sPlayerSqLeft","path":"sprites/sPlayerSqLeft/sPlayerSqLeft.yy",},},
     {"id":{"name":"rpuzzle","path":"rooms/rpuzzle/rpuzzle.yy",},},
     {"id":{"name":"oPoison","path":"objects/oPoison/oPoison.yy",},},
@@ -151,13 +154,11 @@
     {"id":{"name":"oBooks","path":"objects/oBooks/oBooks.yy",},},
     {"id":{"name":"oPotion2","path":"objects/oPotion2/oPotion2.yy",},},
     {"id":{"name":"oHUD","path":"objects/oHUD/oHUD.yy",},},
-    {"id":{"name":"oPotion4Text","path":"objects/oPotion4Text/oPotion4Text.yy",},},
     {"id":{"name":"oPuzzle","path":"objects/oPuzzle/oPuzzle.yy",},},
     {"id":{"name":"oFinalDoor","path":"objects/oFinalDoor/oFinalDoor.yy",},},
     {"id":{"name":"CheckCollisionsY","path":"scripts/CheckCollisionsY/CheckCollisionsY.yy",},},
     {"id":{"name":"oPlatformXRoom1","path":"objects/oPlatformXRoom1/oPlatformXRoom1.yy",},},
     {"id":{"name":"oPotion3","path":"objects/oPotion3/oPotion3.yy",},},
-    {"id":{"name":"oPotion5Text","path":"objects/oPotion5Text/oPotion5Text.yy",},},
     {"id":{"name":"sDoorAnimation","path":"sprites/sDoorAnimation/sDoorAnimation.yy",},},
     {"id":{"name":"sPlayerSqDeath","path":"sprites/sPlayerSqDeath/sPlayerSqDeath.yy",},},
     {"id":{"name":"oInvr002Trigger","path":"objects/oInvr002Trigger/oInvr002Trigger.yy",},},
@@ -167,7 +168,6 @@
     {"id":{"name":"oPlatformYRoom2","path":"objects/oPlatformYRoom2/oPlatformYRoom2.yy",},},
     {"id":{"name":"fBackstory","path":"fonts/fBackstory/fBackstory.yy",},},
     {"id":{"name":"sTable","path":"sprites/sTable/sTable.yy",},},
-    {"id":{"name":"fDeathText","path":"fonts/fDeathText/fDeathText.yy",},},
     {"id":{"name":"oHint1","path":"objects/oHint1/oHint1.yy",},},
     {"id":{"name":"r001","path":"rooms/r001/r001.yy",},},
   ],
